@@ -6,6 +6,7 @@
   "author": "Lloyd Brookes",
   "bin": {
     "ca": "script/canary.sh",
+    "min": "script/min.sh",
     "ch": "script/chrome.sh",
     "ff": "script/firefox.sh",
     "ffd": "script/firefox-dev.sh",
